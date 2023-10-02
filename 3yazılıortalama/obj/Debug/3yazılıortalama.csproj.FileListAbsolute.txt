@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\3yazılıortalama\3yazılıortalama\obj\Debug\3yazılıortalama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\3yazılıortalama\3yazılıortalama\obj\Debug\3yazılıortalama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\3yazılıortalama\3yazılıortalama\obj\Debug\_3yazılıortalama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\3yazılıortalama\3yazılıortalama\obj\Debug\_3yazılıortalama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\3yazılıortalama\3yazılıortalama\obj\Debug\3yazılıortalama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\3yazılıortalama\3yazılıortalama\obj\Debug\3yazılıortalama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\3yazılıortalama\3yazılıortalama\bin\Debug\3yazılıortalama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\3yazılıortalama\3yazılıortalama\bin\Debug\3yazılıortalama.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\3yazılıortalama\3yazılıortalama\bin\Debug\3yazılıortalama.pdb
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\3yazılıortalama\3yazılıortalama\obj\Debug\3yazılıortalama.exe
+C:\Users\User\Desktop\KORUMASIZ\10A_Hilal\3yazılıortalama\3yazılıortalama\obj\Debug\3yazılıortalama.pdb
